@@ -1,0 +1,13 @@
+token = ""
+clientId = ""
+guildId = ""
+scallyId = ""
+public = ""
+secret = ""
+serpKey = ""
+
+permissions = ""
+invite = ''
+
+# start w/ npm run test
+# remember to rename file to .env
